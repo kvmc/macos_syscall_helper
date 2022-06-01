@@ -6,7 +6,7 @@ import os
 os.chdir("/Users/kevin/Library/Application Support/Hopper/Scripts")
 
 #syscall tables stolen from here
-https://github.com/dyjakan/osx-syscalls-list
+#https://github.com/dyjakan/osx-syscalls-list
 
 #SYSCALL_CLASS_NONE = NULL
 SYSCALL_CLASS_MACH = 0x01
