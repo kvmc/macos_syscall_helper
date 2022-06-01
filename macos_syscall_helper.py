@@ -2,6 +2,7 @@
 import json
 import os
 
+#script for hopper https://www.hopperapp.com
 #modify this to match your path
 os.chdir("/Users/kevin/Library/Application Support/Hopper/Scripts")
 
